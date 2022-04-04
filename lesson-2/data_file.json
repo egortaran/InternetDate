@@ -1,0 +1,1548 @@
+[
+  [
+    {
+      "Вакансия": "Frontend Разработчик (Стажёр) на React / React Native",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/45243373?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Backend разработчик (Стажёр) на Node.js",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53006873?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend-разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54386410?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java-разработчик (Senior)",
+      "Зарплата": {
+        "min": 300000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53476847?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Javascript/C# developer",
+      "Зарплата": {
+        "min": 40000,
+        "max": 80000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54211350?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Web-программист",
+      "Зарплата": {
+        "min": 60000,
+        "max": 100000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52278834?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Python-разработчик в инфраструктурную команду",
+      "Зарплата": {
+        "min": 160000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54539373?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Senior Golang Developer",
+      "Зарплата": {
+        "min": 256000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53303892?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик С#/ASP.NET",
+      "Зарплата": {
+        "min": 100000,
+        "max": 110000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54376968?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Fullstack Java разработчик (Middle)",
+      "Зарплата": {
+        "min": 148000,
+        "max": 210000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52096304?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Программист",
+      "Зарплата": {
+        "min": 70000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54474751?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Back-end разработчик (PHP 7, Symfony 5, PostgreSQL)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250245?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Front-End разработчик (Vue.js, Typescript, SPA)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250397?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Web-программист",
+      "Зарплата": {
+        "min": 70000,
+        "max": 110000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54380689?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Full-stack разработчик (PHP, Symfony, PostgreSQL, удалённо)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250215?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP-разработчик",
+      "Зарплата": {
+        "min": 100000,
+        "max": 150000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53871516?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик мобильных приложений (iOS) Middle",
+      "Зарплата": {
+        "min": 100000,
+        "max": 150000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54269044?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": ".Net/C# разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53693660?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend developer (Typescript, middle/senior)",
+      "Зарплата": {
+        "min": 120000,
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52278907?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик на C#",
+      "Зарплата": {
+        "min": 300000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53581800?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP - разработчик (Back-end developer)",
+      "Зарплата": {
+        "min": 50000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53974589?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java Разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54537799?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": ".Net Разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/45820553?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Backend developer (NestJS)",
+      "Зарплата": {
+        "min": "",
+        "max": 80000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54538273?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Middle PHP разработчик (middle backend php developer)",
+      "Зарплата": {
+        "min": 160000,
+        "max": 253000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54528962?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Ведущий WEB-разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54381833?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP-разработчик",
+      "Зарплата": {
+        "min": 120000,
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52278876?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик на Flutter",
+      "Зарплата": {
+        "min": 300000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53580464?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Программист C#",
+      "Зарплата": {
+        "min": 80000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53910158?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "React.js Developer",
+      "Зарплата": {
+        "min": 50000,
+        "max": 100000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/46524037?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "DevOps Engineer (Web services, PostgreSQL, CI/CD, удалённо)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250184?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик на React",
+      "Зарплата": {
+        "min": 260000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53581621?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend Developer (React, React Native)",
+      "Зарплата": {
+        "min": 150000,
+        "max": 250000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54457766?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик 1С",
+      "Зарплата": {
+        "min": 90000,
+        "max": 150000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54466824?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик АБС (SQL, Delphi)",
+      "Зарплата": {
+        "min": 250000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53980389?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Tech Lead / Java Developer",
+      "Зарплата": {
+        "min": 350000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54508149?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "IOS разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53476840?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP разработчик на Laravel",
+      "Зарплата": {
+        "min": 30000,
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54475476?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик инструментов DevOps",
+      "Зарплата": {
+        "min": "",
+        "max": 250000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52799877?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Node.js/Nest.js разработчик (или переквалификация с других Backend-технологий)",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53794399?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53158863?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "NodeJS разработчик (Middle)",
+      "Зарплата": {
+        "min": 70000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54456045?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP - разработчик (Back-end developer)",
+      "Зарплата": {
+        "min": "",
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/45876028?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend Developer (или переквалификация для бэкендеров)",
+      "Зарплата": {
+        "min": 40000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/47354787?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Team Lead Frontend - разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53152442?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Старший разработчик 1С",
+      "Зарплата": {
+        "min": "",
+        "max": 200000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52131705?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend-разработчик JS, React",
+      "Зарплата": {
+        "min": 120000,
+        "max": 326000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54258068?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java-разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54191658?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Системный аналитик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54367308?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Full-stack веб-разработчик",
+      "Зарплата": {
+        "min": 150000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54256425?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    }
+  ],
+  [
+    {
+      "Вакансия": "Frontend Разработчик (Стажёр) на React / React Native",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/45243373?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Backend разработчик (Стажёр) на Node.js",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53006873?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Web-программист",
+      "Зарплата": {
+        "min": 60000,
+        "max": 100000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52278834?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend-разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54386410?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Web-программист",
+      "Зарплата": {
+        "min": 70000,
+        "max": 110000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54380689?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java-разработчик (Senior)",
+      "Зарплата": {
+        "min": 300000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53476847?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Программист",
+      "Зарплата": {
+        "min": 70000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54474751?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Javascript/C# developer",
+      "Зарплата": {
+        "min": 40000,
+        "max": 80000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54211350?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Python-разработчик в инфраструктурную команду",
+      "Зарплата": {
+        "min": 160000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54539373?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Senior Golang Developer",
+      "Зарплата": {
+        "min": 256000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53303892?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Back-end разработчик (PHP 7, Symfony 5, PostgreSQL)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250245?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик С#/ASP.NET",
+      "Зарплата": {
+        "min": 100000,
+        "max": 110000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54376968?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик на C#",
+      "Зарплата": {
+        "min": 300000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53581800?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Fullstack Java разработчик (Middle)",
+      "Зарплата": {
+        "min": 148000,
+        "max": 210000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52096304?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": ".Net/C# разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53693660?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Front-End разработчик (Vue.js, Typescript, SPA)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250397?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Full-stack разработчик (PHP, Symfony, PostgreSQL, удалённо)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250215?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP-разработчик",
+      "Зарплата": {
+        "min": 100000,
+        "max": 150000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53871516?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java Разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54537799?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик мобильных приложений (iOS) Middle",
+      "Зарплата": {
+        "min": 100000,
+        "max": 150000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54269044?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Ведущий WEB-разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54381833?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": ".Net Разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/45820553?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend developer (Typescript, middle/senior)",
+      "Зарплата": {
+        "min": 120000,
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52278907?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик инструментов DevOps",
+      "Зарплата": {
+        "min": "",
+        "max": 250000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52799877?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP - разработчик (Back-end developer)",
+      "Зарплата": {
+        "min": 50000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53974589?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Backend developer (NestJS)",
+      "Зарплата": {
+        "min": "",
+        "max": 80000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54538273?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "React.js Developer",
+      "Зарплата": {
+        "min": 50000,
+        "max": 100000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/46524037?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Программист C#",
+      "Зарплата": {
+        "min": 80000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53910158?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Middle PHP разработчик (middle backend php developer)",
+      "Зарплата": {
+        "min": 160000,
+        "max": 253000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54528962?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP-разработчик",
+      "Зарплата": {
+        "min": 120000,
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52278876?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик на React",
+      "Зарплата": {
+        "min": 260000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53581621?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "IOS разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53476840?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик на Flutter",
+      "Зарплата": {
+        "min": 300000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53580464?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик Java, ETL",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/47973714?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "DevOps Engineer (Web services, PostgreSQL, CI/CD, удалённо)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250184?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java Developer",
+      "Зарплата": {
+        "min": 350000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54356295?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend Developer (React, React Native)",
+      "Зарплата": {
+        "min": 150000,
+        "max": 250000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54457766?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик 1С",
+      "Зарплата": {
+        "min": 90000,
+        "max": 150000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54466824?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик АБС (SQL, Delphi)",
+      "Зарплата": {
+        "min": 250000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53980389?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53158863?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Tech Lead / Java Developer",
+      "Зарплата": {
+        "min": 350000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54508149?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP разработчик на Laravel",
+      "Зарплата": {
+        "min": 30000,
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54475476?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Node.js/Nest.js разработчик (или переквалификация с других Backend-технологий)",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53794399?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend Developer (или переквалификация для бэкендеров)",
+      "Зарплата": {
+        "min": 40000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/47354787?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "NodeJS разработчик (Middle)",
+      "Зарплата": {
+        "min": 70000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54456045?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP - разработчик (Back-end developer)",
+      "Зарплата": {
+        "min": "",
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/45876028?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик ИСУ (SQL/Python)",
+      "Зарплата": {
+        "min": 77000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54204239?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Team Lead Frontend - разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53152442?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Старший разработчик 1С",
+      "Зарплата": {
+        "min": "",
+        "max": 200000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52131705?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend-разработчик JS, React",
+      "Зарплата": {
+        "min": 120000,
+        "max": 326000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54258068?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java-разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54191658?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Специалист службы поддержки с техническими знаниями (Контест)",
+      "Зарплата": {
+        "min": 15000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/48224447?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Системный аналитик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54367308?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Full-stack веб-разработчик",
+      "Зарплата": {
+        "min": 150000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54256425?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    }
+  ],
+  [
+    {
+      "Вакансия": "Frontend Разработчик (Стажёр) на React / React Native",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/45243373?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Backend разработчик (Стажёр) на Node.js",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53006873?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend-разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54386410?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java-разработчик (Senior)",
+      "Зарплата": {
+        "min": 300000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53476847?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Javascript/C# developer",
+      "Зарплата": {
+        "min": 40000,
+        "max": 80000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54211350?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Web-программист",
+      "Зарплата": {
+        "min": 60000,
+        "max": 100000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52278834?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Python-разработчик в инфраструктурную команду",
+      "Зарплата": {
+        "min": 160000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54539373?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Senior Golang Developer",
+      "Зарплата": {
+        "min": 256000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53303892?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик С#/ASP.NET",
+      "Зарплата": {
+        "min": 100000,
+        "max": 110000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54376968?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Fullstack Java разработчик (Middle)",
+      "Зарплата": {
+        "min": 148000,
+        "max": 210000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52096304?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Программист",
+      "Зарплата": {
+        "min": 70000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54474751?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Back-end разработчик (PHP 7, Symfony 5, PostgreSQL)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250245?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Front-End разработчик (Vue.js, Typescript, SPA)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250397?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Web-программист",
+      "Зарплата": {
+        "min": 70000,
+        "max": 110000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54380689?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Full-stack разработчик (PHP, Symfony, PostgreSQL, удалённо)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250215?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP-разработчик",
+      "Зарплата": {
+        "min": 100000,
+        "max": 150000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53871516?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик мобильных приложений (iOS) Middle",
+      "Зарплата": {
+        "min": 100000,
+        "max": 150000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54269044?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": ".Net/C# разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53693660?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend developer (Typescript, middle/senior)",
+      "Зарплата": {
+        "min": 120000,
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52278907?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик на C#",
+      "Зарплата": {
+        "min": 300000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53581800?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP - разработчик (Back-end developer)",
+      "Зарплата": {
+        "min": 50000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53974589?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java Разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54537799?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": ".Net Разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/45820553?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Backend developer (NestJS)",
+      "Зарплата": {
+        "min": "",
+        "max": 80000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54538273?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Middle PHP разработчик (middle backend php developer)",
+      "Зарплата": {
+        "min": 160000,
+        "max": 253000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54528962?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Ведущий WEB-разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54381833?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP-разработчик",
+      "Зарплата": {
+        "min": 120000,
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52278876?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик на Flutter",
+      "Зарплата": {
+        "min": 300000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53580464?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Программист C#",
+      "Зарплата": {
+        "min": 80000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53910158?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "React.js Developer",
+      "Зарплата": {
+        "min": 50000,
+        "max": 100000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/46524037?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "DevOps Engineer (Web services, PostgreSQL, CI/CD, удалённо)",
+      "Зарплата": {
+        "min": 5000,
+        "max": "",
+        "currency": "USD"
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54250184?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик на React",
+      "Зарплата": {
+        "min": 260000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53581621?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend Developer (React, React Native)",
+      "Зарплата": {
+        "min": 150000,
+        "max": 250000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54457766?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик 1С",
+      "Зарплата": {
+        "min": 90000,
+        "max": 150000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54466824?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик АБС (SQL, Delphi)",
+      "Зарплата": {
+        "min": 250000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53980389?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Tech Lead / Java Developer",
+      "Зарплата": {
+        "min": 350000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54508149?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "IOS разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53476840?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP разработчик на Laravel",
+      "Зарплата": {
+        "min": 30000,
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54475476?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Разработчик инструментов DevOps",
+      "Зарплата": {
+        "min": "",
+        "max": 250000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52799877?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Node.js/Nest.js разработчик (или переквалификация с других Backend-технологий)",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53794399?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53158863?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "NodeJS разработчик (Middle)",
+      "Зарплата": {
+        "min": 70000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54456045?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "PHP - разработчик (Back-end developer)",
+      "Зарплата": {
+        "min": "",
+        "max": 180000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/45876028?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend Developer (или переквалификация для бэкендеров)",
+      "Зарплата": {
+        "min": 40000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/47354787?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Team Lead Frontend - разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/53152442?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Старший разработчик 1С",
+      "Зарплата": {
+        "min": "",
+        "max": 200000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/52131705?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Frontend-разработчик JS, React",
+      "Зарплата": {
+        "min": 120000,
+        "max": 326000,
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54258068?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Java-разработчик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54191658?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Системный аналитик",
+      "Зарплата": {
+        "min": "",
+        "max": "",
+        "currency": ""
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54367308?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    },
+    {
+      "Вакансия": "Full-stack веб-разработчик",
+      "Зарплата": {
+        "min": 150000,
+        "max": "",
+        "currency": "руб."
+      },
+      "Ссылка": "https://omsk.hh.ru/vacancy/54256425?query=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+      "Сайт": "hh"
+    }
+  ]
+]
