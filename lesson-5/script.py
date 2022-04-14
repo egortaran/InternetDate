@@ -51,7 +51,7 @@ for i in range(20):
     letters.append(letter)
 
 client = MongoClient('127.0.0.1')
-db = client['mail.ru']
+db = client['mail_ru']
 collection = db.get_collection('letters')
 for let in letters:
     collection.insert_one(let)
